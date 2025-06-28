@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 
-Olá, me chamo Kaique Carvalho, tenho 19 anos, conclui o enisno médio com curso técnico em Informática para Internet. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC. Sou um desenvolvedor apaixonado por tecnologia e inovação.
+Olá, me chamo Kaique Carvalho. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC. Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
