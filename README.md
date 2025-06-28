@@ -3,7 +3,7 @@
 **`Desenvolvedor FullStack`**
 
 
-Olá, me chamo Kaique Carvalho. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FATEC. Sou um desenvolvedor apaixonado por tecnologia e inovação.
+Olá, me chamo Kaique Carvalho. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na FATEC. Sou um desenvolvedor apaixonado por tecnologia e inovação.
 
 ---
 
@@ -93,10 +93,37 @@ Olá, me chamo Kaique Carvalho. Atualmente, estou cursando Análise e Desenvolvi
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
 
 <br/>
 <br/>
 
+---
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=KaiqueCarvalho01&show_icons=true&theme=tokyonight" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueCarvalho01&theme=tokyonight&layout=compact&custom_title=Technologies&langs_count=9" 
+  />
 
 </p>
